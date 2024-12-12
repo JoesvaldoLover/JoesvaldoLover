@@ -2,7 +2,7 @@
 <h2 style="text-align: center"> 💻  Seja bem-vindo ao meu GitHub!  💻</h2>
 <p style="text-align: center"> Estudante da FATEC de Mogi das Cruzes, atualmente no 4º Semestre. Atualmente focado em aprender Java e C++.<br><b>Estou ansioso para botar em prática o que aprendo!</b></p>
 
-![Estatísticas de Lucas Gomes Dias](https://github-readme-stats.vercel.app/api?username=JoesvaldoLover&show_icons=true&theme=gruvbox)
+![Estatísticas de Lucas Gomes Dias](https://github-readme-stats.vercel.app/api?username=LucasGomes768&show_icons=true&theme=gruvbox)
 
 
 <h2> Tecnologias usadas </h2>
